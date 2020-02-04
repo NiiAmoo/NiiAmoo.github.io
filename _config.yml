@@ -66,6 +66,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://niiamoo.github.io/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/niiamoo-decardinelson"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/De_Nel7"
@@ -75,12 +78,12 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/De_Nel7"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/niiamoo-decardinelson"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/De_Nel7"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NiiAmoo"
