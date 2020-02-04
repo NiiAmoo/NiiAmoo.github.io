@@ -5,6 +5,7 @@ fields:
 - type: text
   name: title
   label: title
+  hidden: false
 - type: text
   name: excerpt_separator
   label: excerpt_separator
